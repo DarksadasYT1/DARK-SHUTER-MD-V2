@@ -41,7 +41,7 @@
 "path": "^0.12.7",
 "node-fetch": "^2.6.1" ,
 "got": "^11.8.2",
-"megajs": "1.1.0",
+"megajs": "^1.2.1",
 "stream": "^0.0.2",
 "vm": "^0.1.0",
 "qrcode-terminal": "^0.12.0"
